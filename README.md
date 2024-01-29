@@ -6,7 +6,7 @@ This research utilizes two datasets: RPaviaU-DPaviaC and EHangzhou-RPaviaHR. Det
 <strong>HyperSpectral Datasets:</strong><br>
 The hyperspectral datasets used in our research were provided to us by <a href="https://scholar.google.com/citations?user=sAnqbRwAAAAJ" target="_blank">Dr. Minchao Ye</a>.
 Since we received the datasets via email and access to a private repository, we may not have the permission to redistribute it in a public repository.
-Hence, the hyperspectral sences are not included with the codes in this repository.<br>
+Hence, the hyperspectral scenes are not included with the codes in this repository.<br>
 To reproduce the results presented here, please obtain the following .mat data files and add them to a folder named GANHDA in your Google Drive:<br>
 * DataCube-RPaviaU-DPaviaC.mat
 * DataCube-EHangzhou-RPaviaHR.mat
